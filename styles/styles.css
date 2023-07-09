@@ -1,0 +1,15 @@
+h2{
+    font-size: 50px;
+}
+img{
+    border: 5px solid blue;
+    width: 200px;
+}
+.node{
+    color: red;
+    background-color: aquamarine;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
